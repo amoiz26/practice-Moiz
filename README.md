@@ -15,3 +15,9 @@ Shah Rukh Khan is my favorite actor because he is **very talented** and entertai
 - Blinding Lights - The Weeknd
 - Perfect - Ed Sheeran
 - Believer - Imagine Dragons
+
+---
+
+## My Favorite City
+
+Learn more about [my favorite city, Chicago](MyCity.md).
