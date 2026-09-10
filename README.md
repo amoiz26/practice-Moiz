@@ -49,3 +49,26 @@ Here are two of my favorite sayings that I find meaningful and inspiring.
 > "It always seems impossible until it's done."
 >
 > — Nelson Mandela
+
+
+---
+
+## Code Snippet: IntListTesterVer1
+
+This Java program tests the IntListVer1 class by creating two list objects, comparing them while they are empty, and displaying their contents.
+
+```java
+public class IntListTesterVer1 {
+    public static void main(String[] args){
+        IntListVer1 list1 = new IntListVer1();
+        IntListVer1 list2 = new IntListVer1(100);
+        
+        //equal when empty?
+        System.out.println("list1.equals(list2): " + list1.equals(list2));
+        System.out.println("list1: " + list1);
+        System.out.println("list2: " + list2);
+    }
+}
+```
+
+[View the original IntListTesterVer1.java source](https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/IntListTesterVer1.java)
